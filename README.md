@@ -3,9 +3,9 @@ Shortcuts Snippets Visual Code Studio CSS, HTML, JS
 
 This is a collaction of favorites shorcuts snippets in Visual Code Studio in CSS, HTML, JS
 
-## Download 
+## Install 
 ### Option 1 
-<a href="./html.json">html.json</a>
+Download  file <a href="./html.json">html.json</a>
 
 ### Option 2
 Copy and paste in your Visual Code Studio 
