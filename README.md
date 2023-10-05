@@ -3,7 +3,7 @@ Shortcuts Snippets Visual Code Studio CSS, HTML, JS
 
 This is a collaction of favorites shorcuts snippets in Visual Code Studio in CSS, HTML, JS
 
-´´´´
+´´´
 {	
 	"span lang es": {
 		"prefix": "langes",
