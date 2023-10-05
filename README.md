@@ -3,6 +3,24 @@ Shortcuts Snippets Visual Code Studio CSS, HTML, JS
 
 This is a collaction of favorites shorcuts snippets in Visual Code Studio in CSS, HTML, JS
 
+## Install 
+### Option 1 
+Download  file <a href="./html.json">html.json</a>
+
+### Option 2
+Copy and paste in your Visual Code Studio 
+
+### License
+This project has a CC-BY-NV-4.0 license which means you can fork, modify, share but cannot adapt this project for commercial use. Read more here
+
+### Contribution
+PRs should be made to the develop branch, the master branch represents the stable/production version of the application.
+
+### Help
+Contact me at <a href="https://twitter.com/LuisAngelMaciel">@luisangelmaciel</a> for any questions.
+
+##### Fork, start, donate & love in
+<a href="https://codepen.io/luisangelmaciel/pen/KKbGJRz">Codepen</a> | <a href="https://github.com/luisangelmaciel/Snippets-Visual-Code-Studio">Github</a>
 
 <pre>
 {	
@@ -44,13 +62,3 @@ This is a collaction of favorites shorcuts snippets in Visual Code Studio in CSS
 		"description":"Content center"}
 }	
 </pre>
-
-## Install 
-### Option 1 
-Download  file <a href="./html.json">html.json</a>
-
-### Option 2
-Copy and paste in your Visual Code Studio 
-
-##### Fork, start, donate & love in
-<a href="https://codepen.io/luisangelmaciel/pen/KKbGJRz">Codepen</a> | <a href="https://github.com/luisangelmaciel/Snippets-Visual-Code-Studio">Github</a>
