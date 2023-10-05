@@ -3,7 +3,6 @@ Shortcuts Snippets Visual Code Studio CSS, HTML, JS
 
 This is a collaction of favorites shorcuts snippets in Visual Code Studio in CSS, HTML, JS
 
-´´´
 
 <pre>
 {	
@@ -54,4 +53,4 @@ Download  file <a href="./html.json">html.json</a>
 Copy and paste in your Visual Code Studio 
 
 ##### Fork, start, donate & love in
-<a href="https://codepen.io/luisangelmaciel/pen/KKbGJRz">Codepen</a> |<a href="https://github.com/luisangelmaciel/Snippets-Visual-Code-Studio">Github</a>
+<a href="https://codepen.io/luisangelmaciel/pen/KKbGJRz">Codepen</a> | <a href="https://github.com/luisangelmaciel/Snippets-Visual-Code-Studio">Github</a>
