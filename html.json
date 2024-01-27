@@ -65,5 +65,39 @@
 			"",
 		],
 		"description":""}					
-}
 
+	"Style sr only": {
+		 	"prefix": "<style-sr-only",
+		 	"body": [
+		 		"<style>.sr-only {clip: rect(0, 0, 0, 0);border-width:0;height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;white-space: nowrap;width: 1px;}</style>"
+		 	],
+		 	"description": "Style sr-only"
+
+},
+{ 
+	"a href sr only": {
+		 	"prefix": "<ahref-sr-only",
+		 	"body": [
+		 		"<a href="" class="sr-only"></a>"
+		 	],
+		 	"description": "a href sr-only"
+
+},
+{ 
+	"class sr only": {
+		 	"prefix": "classsronly",
+		 	"body": [
+		 		"<span class="sr-only"> </span>"
+		 	],
+		 	"description": "class sr only"
+
+},
+{ 
+	"picture img": {
+		 	"prefix": "<picture-img",
+		 	"body": [
+		 		"<picture><img src="" width="" height="" alt="" loading="lazy" class="image-responsive"></picture>"
+		 	],
+		 	"description": "picture"
+
+}
